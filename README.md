@@ -18,4 +18,7 @@
   * Configuring the test environment
   * Implement test design
   * Run the tests
-  * Analyze, tune and retest
+  * Analyze, tune and re-test
+* Workshop
+  * Design and testing with [Apache JMeter](https://jmeter.apache.org/)
+  * Compare with other software
