@@ -22,3 +22,6 @@
 * Workshop
   * Design and testing with [Apache JMeter](https://jmeter.apache.org/)
   * Compare with other software
+
+## Resources
+* [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
