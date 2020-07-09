@@ -25,3 +25,5 @@
 
 ## Resources
 * [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
+* [Google PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/)
+* [Faker library](https://github.com/marak/Faker.js/)
