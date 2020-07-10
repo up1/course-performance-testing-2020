@@ -35,7 +35,7 @@
           </elementProp>
           <elementProp name="host" elementType="Argument">
             <stringProp name="Argument.name">host</stringProp>
-            <stringProp name="Argument.value">10.10.60.7</stringProp>
+            <stringProp name="Argument.value">1.1.6.7</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
             <stringProp name="Argument.desc">Change this value to jmeter.apache.org</stringProp>
           </elementProp>
@@ -236,7 +236,7 @@
             &quot;password&quot;: &quot;${password}&quot;&#xd;
         }&#xd;
     },&#xd;
-   &quot;json&quot;:&quot;{        \&quot;isSocial\&quot;: false,     \&quot;account\&quot;: {        \&quot;username\&quot;: \&quot;username00117@gmail.com\&quot;,      \&quot;password\&quot;: \&quot;161ebd7d45089b3446ee4e0d86dbcf92\&quot;     }   }&quot;&#xd;
+   &quot;json&quot;:&quot;{        \&quot;isSocial\&quot;: false,     \&quot;account\&quot;: {        \&quot;username\&quot;: \&quot;x@x.com\&quot;,      \&quot;password\&quot;: \&quot;xxxx\&quot;     }   }&quot;&#xd;
 }</stringProp>
                   <stringProp name="Argument.metadata">=</stringProp>
                 </elementProp>
