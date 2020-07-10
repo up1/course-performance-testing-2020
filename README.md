@@ -27,3 +27,12 @@
 * [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
 * [Google PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/)
 * [Faker library](https://github.com/marak/Faker.js/)
+
+## Performance testing tools
+* [Apache JMeter](https://jmeter.apache.org/)
+* [Wrk](https://github.com/wg/wrk)
+* [Locust](https://locust.io/)
+* [K6](https://k6.io/)
+* [Hey](https://github.com/rakyll/hey)
+* [Gatling](https://gatling.io/)
+* [Comparation from k6](https://k6.io/blog/comparing-best-open-source-load-testing-tools)
