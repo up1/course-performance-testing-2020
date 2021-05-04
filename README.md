@@ -1,4 +1,4 @@
-# Course Performance Testing
+# Course :: Performance Testing
 
 * กระบวนการและขั้นตอนของการพัฒนา ตรวจสอบ ทดสอบ เพื่อส่งมอบซอฟต์แวร์
 * ปัญหาพื้นฐานที่ส่งผลกระทบกับประสิทธิภาพของการให้บริการ และการใช้งานซอฟต์แวร์
@@ -27,8 +27,9 @@
 * [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
 * [Google PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/)
 * [Faker library](https://github.com/marak/Faker.js/)
-* [Apache JMeter:: JSON Assertion](https://jmeter.apache.org/usermanual/component_reference.html#JSON_Assertion)
-* [Apache JMeter:: JSON Extractor](https://jmeter.apache.org/usermanual/component_reference.html#JSON_Extractor)
+* Apache JMeter
+  * [Apache JMeter:: JSON Assertion](https://jmeter.apache.org/usermanual/component_reference.html#JSON_Assertion)
+  * [Apache JMeter:: JSON Extractor](https://jmeter.apache.org/usermanual/component_reference.html#JSON_Extractor)
 
 ## Performance testing tools
 * [Apache JMeter](https://jmeter.apache.org/)
