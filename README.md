@@ -34,6 +34,7 @@
 ## Performance testing tools
 * [Apache JMeter](https://jmeter.apache.org/)
 * [Wrk](https://github.com/wg/wrk)
+* [vegeta](https://github.com/tsenart/vegeta)
 * [Locust](https://locust.io/)
 * [K6](https://k6.io/)
 * [Hey](https://github.com/rakyll/hey)
