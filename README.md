@@ -24,7 +24,7 @@
   * Compare with other software
 
 ## Workshop
-  * Frontend and Backend
+  * [Frontend and Backend](https://github.com/up1/course-performance-testing-2020/wiki/Workshop)
 
 ## Resources
 * [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
