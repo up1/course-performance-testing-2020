@@ -23,6 +23,9 @@
   * Design and testing with [Apache JMeter](https://jmeter.apache.org/)
   * Compare with other software
 
+## Workshop
+  * [Frontend and Backend](https://github.com/up1/course-performance-testing-2020/wiki/Workshop)
+
 ## Resources
 * [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
 * [Google PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/)
@@ -34,6 +37,7 @@
 ## Performance testing tools
 * [Apache JMeter](https://jmeter.apache.org/)
 * [Wrk](https://github.com/wg/wrk)
+* [vegeta](https://github.com/tsenart/vegeta)
 * [Locust](https://locust.io/)
 * [K6](https://k6.io/)
 * [Hey](https://github.com/rakyll/hey)
